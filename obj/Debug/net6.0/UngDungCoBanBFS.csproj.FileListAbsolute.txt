@@ -1,0 +1,14 @@
+C:\Users\Trinh\source\repos\UngDungCoBanBFS\bin\Debug\net6.0\UngDungCoBanBFS.exe
+C:\Users\Trinh\source\repos\UngDungCoBanBFS\bin\Debug\net6.0\UngDungCoBanBFS.deps.json
+C:\Users\Trinh\source\repos\UngDungCoBanBFS\bin\Debug\net6.0\UngDungCoBanBFS.runtimeconfig.json
+C:\Users\Trinh\source\repos\UngDungCoBanBFS\bin\Debug\net6.0\UngDungCoBanBFS.dll
+C:\Users\Trinh\source\repos\UngDungCoBanBFS\bin\Debug\net6.0\UngDungCoBanBFS.pdb
+C:\Users\Trinh\source\repos\UngDungCoBanBFS\obj\Debug\net6.0\UngDungCoBanBFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trinh\source\repos\UngDungCoBanBFS\obj\Debug\net6.0\UngDungCoBanBFS.AssemblyInfoInputs.cache
+C:\Users\Trinh\source\repos\UngDungCoBanBFS\obj\Debug\net6.0\UngDungCoBanBFS.AssemblyInfo.cs
+C:\Users\Trinh\source\repos\UngDungCoBanBFS\obj\Debug\net6.0\UngDungCoBanBFS.csproj.CoreCompileInputs.cache
+C:\Users\Trinh\source\repos\UngDungCoBanBFS\obj\Debug\net6.0\UngDungCoBanBFS.dll
+C:\Users\Trinh\source\repos\UngDungCoBanBFS\obj\Debug\net6.0\refint\UngDungCoBanBFS.dll
+C:\Users\Trinh\source\repos\UngDungCoBanBFS\obj\Debug\net6.0\UngDungCoBanBFS.pdb
+C:\Users\Trinh\source\repos\UngDungCoBanBFS\obj\Debug\net6.0\UngDungCoBanBFS.genruntimeconfig.cache
+C:\Users\Trinh\source\repos\UngDungCoBanBFS\obj\Debug\net6.0\ref\UngDungCoBanBFS.dll
